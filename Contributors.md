@@ -33,6 +33,7 @@
 - [Pratyush Tyagi](https://github.com/Pratyush0612)
 - [Surajit Dey Sarkar](https://github.com/Surajitds)
 - [Mohit Marathe](https://github.com/Mohit2758)
+- [Pridhi](https://github.com/pridhigarg369)
 - [Edwin Kim](https://github.com/edwinkim97)
 - [Rezgui Med Aziz](https://github.com/medAzizRezgui)
 - [Henrikas Budrys](https://github.com/hbportfolio)
